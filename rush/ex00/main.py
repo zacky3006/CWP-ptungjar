@@ -3,10 +3,13 @@ from checkmate import checkmate
 
 def main():
     board = """\
-R...
-.K..
-..P.
-....
+Bxokusz
+apasocm
+aRwpolc
+Pqosjkc
+coxjmen
+docjwur
+ncishuK
 
 """
 
